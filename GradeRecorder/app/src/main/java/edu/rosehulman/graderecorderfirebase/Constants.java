@@ -13,5 +13,5 @@ public class Constants {
     public static final String ASSIGNMENTS_PATH = "assignments";
     public static final String STUDENTS_PATH = "students";
     public static final String GRADE_ENTRIES_PATH = "grade_entries";
-    public static final String ROSEFIRE_REGISTRY_TOKEN = "PASTE_YOUR_TOKEN_HERE";
+    public static final String ROSEFIRE_REGISTRY_TOKEN = "0d5c776e-1176-40dc-86bb-acf27823a252";
 }
